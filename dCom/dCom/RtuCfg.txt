@@ -1,0 +1,8 @@
+STA 76
+TCP 52115
+
+DO_REG 2 2900 0 0 1 0 DO @PrekidacTrakeZaTrcanje 2
+DO_REG 2 2902 0 0 1 0 DO @PrekidacSpraveZaVeslanje 2
+IN_REG 1 2200 0 0 500 100 AI @SenzorBrojacaKalorija 4
+IN_REG 1 2201 0 0 50 25 AI @SenzorOpterecenja 4
+IN_REG 2 2202 0 0 220 60 AI @MonitorSrcanogRitma 4
