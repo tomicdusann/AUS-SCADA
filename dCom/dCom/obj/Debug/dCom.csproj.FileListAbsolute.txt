@@ -47,3 +47,29 @@ E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dC
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\dCom\obj\Debug\dCom.exe
 E:\FTN\Predmeti\Akviziciono upravljački sistemi\Materijal\Materijal - vežbe\dCom-radna-verzija\dCom\dCom\obj\Debug\dCom.pdb
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\RtuCfg.txt
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\dCom.exe.config
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\dCom.exe
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\dCom.pdb
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\Common.dll
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\Modbus.dll
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\ProcessingModule.dll
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\Common.pdb
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\Modbus.pdb
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\bin\Debug\ProcessingModule.pdb
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.csproj.AssemblyReference.cache
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\ControlWindow.g.cs
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\MainWindow.g.cs
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\App.g.cs
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom_MarkupCompile.cache
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom_MarkupCompile.lref
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\ControlWindow.baml
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\MainWindow.baml
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.g.resources
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.Properties.Resources.resources
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.csproj.GenerateResource.cache
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.csproj.CopyComplete
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.exe
+D:\Program Files (x86)\AUS-SCADA\dCom\dCom\obj\Debug\dCom.pdb

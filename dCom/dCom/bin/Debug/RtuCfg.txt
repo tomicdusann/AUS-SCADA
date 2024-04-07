@@ -1,8 +1,8 @@
-STA 1
-TCP 502
+STA 76
+TCP 52115
 
-
-DO_REG  10 40   0  0      1     0  DO  @DigOut #
-DI_REG  8 1000  0  0      1     0  DI  @DigIn #
-IN_REG  4 2000  0  0   4095  2000  AI  @AnaIn #
-HR_INT  2 3000  0  0   4095  1200  AO  @AnaOut #
+DO_REG 2 2900 0 0 1 0 DO @PrekidacTrakeZaTrcanje 2
+DO_REG 2 2902 0 0 1 0 DO @PrekidacSpraveZaVeslanje 2
+IN_REG 1 2200 0 0 500 100 AI @SenzorBrojacaKalorija 4
+IN_REG 1 2201 0 0 50 25 AI @SenzorOpterecenja 4
+IN_REG 2 2202 0 0 220 60 AI @MonitorSrcanogRitma 4
