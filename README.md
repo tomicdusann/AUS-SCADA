@@ -4,6 +4,6 @@ Provided code represents the defined basic functions of a SCADA system. Dependin
 
 ## Installation
 ```bash
- - After download, in order to edit, run or debbug open with Visual Studio 
- - Platform: Windows, VS, C##, .NET 
+ - After download, to edit, run or debbug code open it with Visual Studio 
+ - Platform: Windows VisualStudio C## .NET
 ```
